@@ -1,8 +1,16 @@
 # CS519.M11.KHCL
 
-<p>Trường: Đại học Công Nghệ Thông Tin - ĐHQG Hồ Chí Minh</p><br>
-<p>Họ tên: Võ Khoa Nam</p><br>
-<p>Mssv: 19521877</p><br>
-<p>Ngành: Khoa Học Máy Tính</p><br>
-<p>Mail: 19521877@gm.uit.edu.vn</p><br>
-<p>Phone: 0333 156 124</p><br>
+## Giới thiệu
+* Tên môn học: PHƯƠNG PHÁP LUẬN NGHIÊN CỨU KHOA HỌC
+* Mã lớp: CS519.M11.KHCL
+* Năm học: HK2 (2021-2022)
+
+### Giảng viên
+* PGS.TS. Lê Đình Duy - duyld@uit.edu.vn
+
+### Bản thân
+
+| Họ tên | MSSV | Email | Github |
+| --- | --- | --- | --- | 
+| Võ Khoa Nam | 19521877 | 19521877@gm.uit.edu.vn | [khoanamgit](https://github.com/khoanamgit) |
+
