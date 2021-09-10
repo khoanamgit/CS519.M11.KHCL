@@ -8,7 +8,7 @@
 ### Giảng viên
 * PGS.TS. Lê Đình Duy - duyld@uit.edu.vn
 
-### Bản thân
+### Thành viên nhóm
 
 | Họ tên | MSSV | Email | Github |
 | --- | --- | --- | --- | 
